@@ -1,0 +1,12 @@
+[
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "description": "GitHub is a code hosting platform for version control and collaboration."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "description": "Comprehensive documentation for web technologies."
+  }
+]
